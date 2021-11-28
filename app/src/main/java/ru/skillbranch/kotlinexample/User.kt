@@ -1,4 +1,4 @@
-package ru.skillbranch.kotlinexample.extensions
+package ru.skillbranch.kotlinexample
 
 import androidx.annotation.VisibleForTesting
 import java.math.BigInteger
